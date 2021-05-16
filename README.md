@@ -5,12 +5,12 @@
 To learn how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
-## What you will create
+## What we will create
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button.
 
 
-## What you will learn
+## What we will learn
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
